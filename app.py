@@ -11,7 +11,7 @@ import seaborn as sns
 # -------------------------------------------------
 st.set_page_config(page_title="YouTube Social Media Dashboard", layout="wide")
 
-st.title(" YouTube Social Media Analytics Dashboard")
+st.title("📊 YouTube Social Media Analytics Dashboard")
 
 # -------------------------------------------------
 # Load Dataset
